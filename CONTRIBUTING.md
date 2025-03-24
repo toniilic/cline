@@ -90,3 +90,26 @@ Anyone can contribute code to Cline, but we ask that you follow these guidelines
 By submitting a pull request, you agree that your contributions will be licensed under the same license as the project ([Apache 2.0](LICENSE)).
 
 Remember: Contributing to Cline isn't just about writing code - it's about being part of a community that's shaping the future of AI-assisted development. Let's build something amazing together! 🚀
+
+## Purpose and Structure of the Contributing Documentation
+
+The contributing documentation aims to provide a clear and comprehensive overview of the guidelines and processes for contributing to the project. It is structured to help contributors understand the main sections and topics related to contributing.
+
+### Main Sections and Topics
+
+- **Reporting Bugs or Issues:** Guidelines for reporting bugs and issues.
+- **Deciding What to Work On:** Information on finding issues to work on and contributing to the documentation.
+- **Development Setup:** Instructions for setting up the development environment.
+- **Writing and Submitting Code:** Guidelines for writing and submitting code, including code quality, testing, version management, commit guidelines, and pull request descriptions.
+- **Contribution Agreement:** Information on the contribution agreement and licensing.
+
+### Navigating and Using the Contributing Documentation
+
+To navigate and use the contributing documentation effectively:
+1. Familiarize yourself with the main sections and topics.
+2. Follow the guidelines and instructions provided in each section.
+3. Use the links and references to access additional resources and information.
+
+### Contributing to the Contributing Documentation
+
+We welcome contributions to the contributing documentation. If you have suggestions or find areas that could be enhanced, please let us know. You can submit changes and improvements through pull requests on the Cline GitHub repository. Please follow the guidelines for submitting changes and improvements to ensure consistency and quality.
