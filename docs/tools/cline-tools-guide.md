@@ -135,3 +135,24 @@ Each tool has specific parameters and usage patterns. Here are some examples:
 -   [Join the Discord community](https://discord.gg/cline)
 -   Check the documentation
 -   Provide feedback to improve Cline
+
+## Purpose and Structure of the Tools Guide
+
+The tools guide aims to provide a clear and comprehensive overview of the main tools and their functionalities. It is structured to help users understand how to use each tool effectively.
+
+### Main Tools and Their Functionalities
+
+- **File Operations:** Create, read, replace, search, and list files.
+- **Terminal Operations:** Run CLI commands and list code definitions.
+- **MCP Tools:** Use tools from MCP servers and access MCP server resources.
+- **Interaction Tools:** Ask follow-up questions and present final results.
+
+### Using Each Tool Effectively
+
+To use each tool effectively:
+1. Understand the specific parameters and usage patterns for each tool.
+2. Follow the examples provided in the documentation to create, read, replace, search, and list files, run CLI commands, use MCP tools, and ask follow-up questions.
+
+### Contributing to the Tools Guide
+
+We welcome contributions to the tools guide. If you have suggestions or find areas that could be enhanced, please let us know. You can submit changes and improvements through pull requests on the Cline GitHub repository. Please follow the guidelines for submitting changes and improvements to ensure consistency and quality.

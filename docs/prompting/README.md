@@ -323,3 +323,27 @@ Here are some prompting tips that users have found helpful for working with Clin
     "THE HUMAN WILL GET ANGRY."
     ```
     (A humorous reminder to provide clear requirements and constructive feedback)
+
+## Purpose and Structure of the Prompting Documentation
+
+The prompting documentation aims to provide a clear and comprehensive overview of the main concepts and techniques for effective prompting. It is structured to help users understand how to write and use custom instructions and prompts effectively.
+
+### Main Concepts and Techniques
+
+- **Custom Instructions:** Define Cline's baseline behavior and influence all interactions.
+- **.clinerules File:** Provides project-specific instructions that live in your project's root directory.
+- **Effective Prompting:** Communicate your needs for a given task in the back-and-forth chat with Cline.
+- **Advanced Prompting Techniques:** Include explicit constraints, confidence checks, and challenge Cline's assumptions.
+
+### Writing and Using Custom Instructions and Prompts
+
+To write and use custom instructions and prompts effectively:
+1. Be clear and concise in your instructions and prompts.
+2. Focus on desired outcomes and describe the results you want.
+3. Test and iterate to find what works best for your workflow.
+4. Provide clear context, break down complexity, and ask specific questions in your prompts.
+5. Validate and refine Cline's suggestions and provide feedback.
+
+### Contributing to the Prompting Documentation
+
+We welcome contributions to the prompting documentation. If you have suggestions or find areas that could be enhanced, please let us know. You can submit changes and improvements through pull requests on the Cline GitHub repository. Please follow the guidelines for submitting changes and improvements to ensure consistency and quality.

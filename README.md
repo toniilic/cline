@@ -137,28 +137,38 @@ For example, when working with a local web server, you can use 'Restore Workspac
 
 <img width="2000" height="0" src="https://github.com/user-attachments/assets/ee14e6f7-20b8-4391-9091-8e8e25561929"><br>
 
-## Contributing
+## Purpose and Usage
 
-To contribute to the project, start with our [Contributing Guide](CONTRIBUTING.md) to learn the basics. You can also join our [Discord](https://discord.gg/cline) to chat with other contributors in the `#contributors` channel. If you're looking for full-time work, check out our open positions on our [careers page](https://cline.bot/join-us)!
+Cline is designed to be an AI assistant that can help you with various software development tasks. It can create and edit files, run terminal commands, use the browser, and even extend its capabilities through custom tools. Cline is particularly useful for handling complex tasks step-by-step, providing valuable assistance even for large, complex projects.
 
-<details>
-<summary>Local Development Instructions</summary>
+## Main Features and Functionalities
 
-1. Clone the repository _(Requires [git-lfs](https://git-lfs.com/))_:
+- **File Operations:** Create and edit files directly in your editor, with a diff view of changes.
+- **Terminal Commands:** Execute commands directly in your terminal and monitor their output.
+- **Browser Integration:** Launch a browser, click elements, type text, and scroll, capturing screenshots and console logs.
+- **Custom Tools:** Extend capabilities through custom tools using the Model Context Protocol (MCP).
+- **Context Management:** Add context through URLs, workspace errors, file contents, and folder contents.
+- **Checkpoints:** Take snapshots of your workspace at each step, allowing you to compare and restore.
+
+## Installation and Setup
+
+1. **Clone the repository** _(Requires [git-lfs](https://git-lfs.com/))_:
     ```bash
     git clone https://github.com/cline/cline.git
     ```
-2. Open the project in VSCode:
+2. **Open the project in VSCode**:
     ```bash
     code cline
     ```
-3. Install the necessary dependencies for the extension and webview-gui:
+3. **Install the necessary dependencies for the extension and webview-gui**:
     ```bash
     npm run install:all
     ```
-4. Launch by pressing `F5` (or `Run`->`Start Debugging`) to open a new VSCode window with the extension loaded. (You may need to install the [esbuild problem matchers extension](https://marketplace.visualstudio.com/items?itemName=connor4312.esbuild-problem-matchers) if you run into issues building the project.)
+4. **Launch by pressing `F5`** (or `Run`->`Start Debugging`) to open a new VSCode window with the extension loaded. (You may need to install the [esbuild problem matchers extension](https://marketplace.visualstudio.com/items?itemName=connor4312.esbuild-problem-matchers) if you run into issues building the project.)
 
-</details>
+## Contributing
+
+To contribute to the project, start with our [Contributing Guide](CONTRIBUTING.md) to learn the basics. You can also join our [Discord](https://discord.gg/cline) to chat with other contributors in the `#contributors` channel. If you're looking for full-time work, check out our open positions on our [careers page](https://cline.bot/join-us)!
 
 <details>
 <summary>Creating a Pull Request</summary>
@@ -183,7 +193,6 @@ To contribute to the project, start with our [Contributing Guide](CONTRIBUTING.m
    - When the Version Packages PR is merged, a new release will be published
 
 </details>
-
 
 ## License
 

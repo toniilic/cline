@@ -36,3 +36,23 @@ Welcome to the Cline documentation - your comprehensive guide to using and exten
 -   **MCP Documentation:** [https://modelcontextprotocol.org/docs](https://modelcontextprotocol.org/docs)
 
 We're always looking to improve this documentation. If you have suggestions or find areas that could be enhanced, please let us know. Your feedback helps make Cline better for everyone.
+
+## Purpose and Structure of the Documentation
+
+This documentation is designed to provide a comprehensive guide to using and extending Cline's capabilities. It is structured to help you get started, improve your skills, and contribute to the project.
+
+### Main Sections and Topics
+
+- **Getting Started:** A gentle introduction for new coders.
+- **Improving Your Prompting Skills:** Guides to communicate more effectively with Cline.
+- **Exploring Cline's Tools:** Understanding Cline's capabilities and extending them with MCP Servers.
+- **Contributing to Cline:** Guidelines for contributing to the project.
+- **Additional Resources:** Links to the Cline GitHub repository and MCP documentation.
+
+### Navigating and Using the Documentation
+
+To navigate the documentation, use the links provided in each section. Each link will take you to a specific guide or resource that will help you understand and use Cline more effectively.
+
+### Contributing to the Documentation
+
+We welcome contributions to the documentation. If you have suggestions or find areas that could be enhanced, please let us know. You can submit changes and improvements through pull requests on the Cline GitHub repository. Please follow the guidelines for submitting changes and improvements to ensure consistency and quality.

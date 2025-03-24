@@ -101,3 +101,25 @@ There are various resources available for finding and learning about MCP servers
 -   **Online Directories:** [https://mcpservers.org/](https://mcpservers.org/), [https://mcp.so/](https://mcp.so/), and [https://glama.ai/mcp/servers](https://glama.ai/mcp/servers)
 -   **PulseMCP:** [https://www.pulsemcp.com/](https://www.pulsemcp.com/)
 -   **YouTube Tutorial (AI-Driven Coder):** A video guide for building and using MCP servers: [https://www.youtube.com/watch?v=b5pqTNiuuJg](https://www.youtube.com/watch?v=b5pqTNiuuJg)
+
+## Purpose and Structure of the MCP Documentation
+
+The MCP documentation aims to provide a clear and comprehensive overview of the Model Context Protocol and its integration with Cline. It is structured to help developers understand the main concepts and components of the MCP.
+
+### Main Concepts and Components
+
+- **MCP Servers:** Small programs that expose functionalities to LLMs.
+- **Tools:** Functions that LLMs can execute.
+- **Resources:** Consistent access to read-only data.
+- **Security:** Ensuring secure interactions and data isolation.
+
+### Using and Integrating MCP Servers
+
+To use and integrate MCP servers with the project:
+1. Choose the right approach for your needs (use existing servers, customize existing servers, or build from scratch).
+2. Follow the instructions provided in the documentation to build and configure MCP servers.
+3. Use Cline's AI capabilities to simplify the building and integration process.
+
+### Contributing to the MCP Documentation
+
+We welcome contributions to the MCP documentation. If you have suggestions or find areas that could be enhanced, please let us know. You can submit changes and improvements through pull requests on the Cline GitHub repository. Please follow the guidelines for submitting changes and improvements to ensure consistency and quality.

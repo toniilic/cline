@@ -41,3 +41,25 @@ The diagram uses a high-contrast color scheme for better visibility:
 - Blue (#0066ff): Extension state context
 - Green (#00cc66): Cline provider
 - All components use white text for maximum readability
+
+## Purpose and Structure of the Architecture Documentation
+
+The architecture documentation aims to provide a clear and comprehensive overview of the Cline extension's architecture. It is structured to help developers understand the main components and modules of the project architecture.
+
+### Main Components and Modules
+
+- **Core Extension:** The core logic and state management of the extension.
+- **Webview UI:** The user interface components and their interactions.
+- **Storage:** The mechanisms for storing task-specific data and checkpoints.
+- **Data Flow:** The flow of data between different components and modules.
+
+### Understanding and Navigating the Architecture Diagrams
+
+To understand and navigate the architecture diagrams effectively:
+1. Familiarize yourself with the main components and their roles.
+2. Follow the data flow paths to see how information moves between components.
+3. Use the color scheme to identify different types of components and their interactions.
+
+### Contributing to the Architecture Documentation
+
+We welcome contributions to the architecture documentation. If you have suggestions or find areas that could be enhanced, please let us know. You can submit changes and improvements through pull requests on the Cline GitHub repository. Please follow the guidelines for submitting changes and improvements to ensure consistency and quality.
